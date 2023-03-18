@@ -38,6 +38,7 @@ This can be achieved by building in the spawn chunks,loading the area with the p
 or chunk loading with a portal loader like the one shown here (link in description)
 
 *Show replay or 1st person footage looting and ancient city*
+
 Remember that warden spawns are only prevented for the owner of the arrow.
 Each player requring warden protection needs their own switch
 Loot from each ancient city has approximately 3-4 enchanted golden apples
