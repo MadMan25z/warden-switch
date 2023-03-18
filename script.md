@@ -1,4 +1,4 @@
-# Warden Switch Script Draft
+# Warden Switch Script
 
 Hello. I'm Nash, here to showcase a simple warden switch by Madman. This simple, five-minute build is able to completely disable the spawning of wardens from the activation of sculk shriekers. This can be used to easily loot ancient cities, without needing to worry about sneaking around sculk sensors.
 
