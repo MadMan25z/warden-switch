@@ -3,7 +3,7 @@
 *Opening shot??*
 
 Today we will showcase a simple warden switch by MadMan25.  
-This simple build is able to completely stop one player from activating sculk shriekers and summoning the warden.  
+This simple build is able to completely stop one player from summoning the warden.  
 
 *Cut to top view of switch running with player off to the side standing on another shrieker, possibly jumping, opening chest, etc...*
 
