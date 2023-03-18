@@ -41,7 +41,7 @@ or chunk loading with a portal loader like the one shown here (link in descripti
 
 Remember that warden spawns are only prevented for the owner of the arrow.  
 Each player requring warden protection needs their own switch  
-Loot from each ancient city has approximately 3-4 enchanted golden apples  
+Loot from each ancient city contains approximately 3-4 enchanted golden apples  
 Happy looting!
 
 *Fade to black*
