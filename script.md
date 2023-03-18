@@ -21,7 +21,7 @@ This will prevent the owner of the arrow from spawning a warden elsewhere in the
 
 [Material list]
 
-*Cameral slowly fly over ancient city*
+*Camera slowly fly over ancient city*
 
 Before you get building, you'll need to find a naturally generated shrieker.
 
