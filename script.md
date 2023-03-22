@@ -7,7 +7,7 @@ This simple build is able to completely stop one player from summoning the warde
 
 *Cut to top view of switch running with player off to the side standing on another shrieker, possibly jumping, opening chest, etc...*
 
-Each player can only trigger a sculk shrieker every ten seconds.  
+Each player can only trigger a sculk shrieker every 10seconds.  
 This device uses a player's arrow falling to trigger the shrieker exactly every 10 seconds.  
 This will prevent the owner of the arrow from spawning a warden anywhere in the world.  
 When the arrow triggers the shrieker, the warden will attempt to spawn in an 11x13x11 area around the shrieker.
