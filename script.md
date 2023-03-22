@@ -5,15 +5,9 @@
 Today we will showcase a simple warden switch by MadMan25.  
 This simple build is able to completely stop one player from summoning the warden.  
 
-*Cut to top view of switch running with player off to the side standing on another shrieker, possibly jumping, opening chest, etc...*
+*Cut to top view of switch running*
 
-Each player can only trigger a sculk shrieker every 10seconds.  
-This device uses a player's arrow falling to trigger the shrieker exactly every 10 seconds.  
-This will prevent the owner of the arrow from spawning a warden anywhere in the world.  
 When the arrow triggers the shrieker, the warden will attempt to spawn in an 11x13x11 area around the shrieker.
-
-*Flash 11x11 area around shrieker rendered in game or overlay on video edit*
-
 The warden is prevented from spawning by blocks without a solid top hitbox, or fluids.  
 Fluids also prevent spawns in caves below them.
 
@@ -31,9 +25,15 @@ To decrease the effort required to flood your spawn area, it is best to select a
 
 *Show working chunk loader (dark's) next to working switch*
 
-It's important to note that the switch must be loaded to continue working.<br>
-This can be achieved by building in the spawn chunks,loading the area with the player<br>
+It's important to note that the switch must be loaded to continue working.  
+This can be achieved by building in the spawn chunks,loading the area with the player  
 or chunk loading with a portal loader like the one shown here (link in description)
+
+*black screen with short explaantion? or just blurred video of working switch*
+
+Each player can only trigger a sculk shrieker every 10 seconds.  
+This device uses a player's arrow falling to trigger the shrieker exactly every 10 seconds.  
+This will prevent the owner of the arrow from spawning a warden anywhere in the world.  
 
 *Show replay or 1st person footage looting and ancient city*
 
