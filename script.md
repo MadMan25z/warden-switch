@@ -8,16 +8,14 @@ This simple build is able to completely stop one player from summoning the warde
 *Cut to top view of switch running with player off to the side standing on another shrieker, possibly jumping, opening chest, etc...*
 
 Each player can only trigger a sculk shrieker every ten seconds.  
-This device uses a player's arrow falling on an exactly 2.5 second interval to trigger the shrieker every 4 cycles  
-So that the shrieker is triggered in the same tick that the player's cool down ends.  
+This device uses a player's arrow falling to trigger the shrieker exactly every 10 seconds.
+This will prevent the owner of the arrow from spawning a warden anywhere in the world.
 When the arrow triggers the shrieker, the warden will attempt to spawn in an 11x13x11 area around the shrieker.
 
 *Flash 11x11 area around shrieker rendered in game or overlay on video edit*
 
-The warden is prevented from spawning by openings smaller than 3 blocks, blocks without a solid top hitbox, or fluids.  
-An added bonus of using fluids is that fluids prevent spawns in caves below them.  
-As long as this shrieker and arrow are loaded, and no wardens are in the area, the shrieker will trigger every 10 seconds  
-This will prevent the owner of the arrow from spawning a warden elsewhere in the world.
+The warden is prevented from spawning by blocks without a solid top hitbox, or fluids.  
+Fluids also prevent spawns in caves below them.
 
 [Material list]
 
